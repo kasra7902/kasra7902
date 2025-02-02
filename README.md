@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Kasra!  
+🚀 AI & Data Science Specialist | NLP | Time Series | Computer Vision  
 
-<!--
-**kasra7902/kasra7902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 About Me  
+- Passionate about **Machine Learning, Deep Learning, and AI solutions**  
+- Skilled in **Python, TensorFlow, PyTorch, NLP, and Forecasting**  
+- Open to exciting **freelance AI & Data Science projects**  
 
-Here are some ideas to get you started:
+### 📌 Skills  
+✔ **Machine Learning & Deep Learning** (LSTM, CNN, Transformers)  
+✔ **Natural Language Processing (NLP)** (BERT, ChatGPT API)  
+✔ **Time Series Forecasting** (Stock & Crypto Price Prediction)  
+✔ **Data Visualization** (Pandas, Matplotlib, Seaborn)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to Reach Me  
+📧 Email: [kasramin79@gmail.com]  
+🔗 Freelancer: [https://www.freelancer.com/u/kasra7902?sb=t] 
